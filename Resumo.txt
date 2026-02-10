@@ -1,0 +1,39 @@
+Evento monitorado em local parceiro.
+
+Como o App deve funcionar?
+
+	O App deve permitir encontros com base em sua rede de estabelecimentos parceiros, assim a responsabilidade de segurança física e do alvará fica para o dono do 	estabelecimento, o App deve funcionar como guia de fluxo. Monetização pode ser oriunda de taxas para os estabelecimentos serem "locais oficiais".
+
+Sistema de Voucher:
+
+	Para facilitar o escopo da empresa, os usuários confirmados gerarão um QR Code, que servirá como Voucher (Ticket) e como uma média de visitantes do evento. Assim, 	teremos um registro de cada pessoa que deu check-in, que limita fraudes e ajuda em investigações.
+
+Avaliação biométrica para cadastro:
+
+	Para cadastrar-se no App é necessário realizar a biometria, garantindo a segurança.
+
+Comunidades Verificadas:
+
+	No App existirão comunidades verificadas, onde poderão existir grupos privados, que então podem marcar encontros.
+	Estabelecimentos Parceiros serão sugeridos aos anfitriões dos eventos.
+
+	Termos de conduta como:
+	- Está ciente de que o app apenas facilita o contato, não provê segurança no local público.	
+	- Compromete-se a respeitar as leis de silêncio e ordem urbana.
+	
+	O anfitrião: 
+
+	Um dos membros será o "anfitrião". Ele faz o check-in dos outros via QR Code no local. Se o anfitrião for uma pessoa de confiança (com 	histórico positivo no app), o 	risco de problemas diminui drasticamente.
+
+Recomendações Jurídicas Imediatas:
+
+	Cláusula de Excludente de Responsabilidade: Deixar claro que o app é uma ferramenta de intermediação e que a segurança no local é de responsabilidade do 	estabelecimento ou dos organizadores individuais.
+
+	Verificação de Identidade (KYC): Implementar um sistema onde o usuário precise tirar uma selfie com o documento. Isso inibe perfis falsos e crimes.
+	
+	Botão de Pânico: Uma funcionalidade dentro do app para denunciar comportamentos suspeitos ou pedir ajuda durante o encontro.
+
+	Termos para a empresa: Contratos específicos onde a empresa declara ter capacidade técnica e legal para receber o número de pessoas estimado pelo app.
+
+
+
