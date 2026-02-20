@@ -13,9 +13,8 @@ Our platform acts as a **flow guide**. The app facilitates connection and valida
 ## How It Works
 
 1.  **Biometric Registration:** Security from the start. Every user undergoes rigorous biometric validation to prevent fake profiles.
-2.  **Verified Communities:** Trusted private groups plan gatherings securely.
-3.  **Partner Venues:** We suggest validated venues, ensuring they meet technical and legal capacity requirements.
-4.  **Voucher System (QR Code):** Each participant generates a QR Code. This serves as a ticket, ensures venue capacity management, and facilitates check-in by the designated "Host."
+2.  **Partner Venues:** We suggest validated venues, ensuring they meet technical and legal capacity requirements.
+3.  **Voucher System (QR Code):** Each participant generates a QR Code. This serves as a ticket, ensures venue capacity management, and facilitates check-in by the designated "Host."
 
 ---
 
